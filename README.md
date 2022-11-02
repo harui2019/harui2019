@@ -39,4 +39,4 @@
 It will introduce my works on React/Python about Webfrontend and Quanmtum Computing or something.
 
 
-[TaLaLaLaLa](https://spotify-recently-played-readme.vercel.app/api?user=31npyqqp3rh4gniv3m4brlqbxdt4&count=1)
+![TaLaLaLaLa](https://spotify-recently-played-readme.vercel.app/api?user=31npyqqp3rh4gniv3m4brlqbxdt4&count=2)
