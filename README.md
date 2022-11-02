@@ -1,6 +1,4 @@
-# In construction
-
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+# Profile
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harui2019.harui2019&"  />
@@ -34,9 +32,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=harui2019" height="150" alt="languages graph"  />
 </div>
 
+# In construction
+
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+
 ## (Spolier!!!)
 
-It will introduce my works on React/Python about Webfrontend and Quanmtum Computing or something.
+It will introduce more works on React/Python about Webfrontend and Quanmtum Computing or something.
 
+## TaLaLaLaLa
 
 ![TaLaLaLaLa](https://spotify-recently-played-readme.vercel.app/api?user=31npyqqp3rh4gniv3m4brlqbxdt4&count=2)
