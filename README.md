@@ -4,11 +4,9 @@
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-- 🔭 I’m currently working on **NCCU-GDSC Select Course**
+- 🔭 I’m currently working on [NCCU-GDSC Select Course](https://selectcourse.projext.app), [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry).
 
 - 🌱 I’m currently learning **Vue, Typescript, Qiskit**
-
-- 👯 I’m looking to collaborate on [NCCU-GDSC Select Course](https://selectcourse.projext.app)
 
 - 📫 How to reach me **harui2019@proton.me**
 
