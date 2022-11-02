@@ -2,7 +2,7 @@
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=harui2019.harui2019&"  />
 </div>
 
@@ -37,3 +37,6 @@
 ## (Spolier!!!)
 
 It will introduce my works on React/Python about Webfrontend and Quanmtum Computing or something.
+
+
+[TaLaLaLaLa](https://spotify-recently-played-readme.vercel.app/api?user=31npyqqp3rh4gniv3m4brlqbxdt4&count={1})
