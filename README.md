@@ -76,7 +76,7 @@
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&card_width=300&hide_border=true&layout=compact&hide=Jupyter+Notebook&card_theme=tokyonight" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact&hide=Jupyter+Notebook&card_theme=tokyonight" align="center" /></div>
 
 </td></tr></table>  
 
