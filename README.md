@@ -1,4 +1,10 @@
-- 🔭 I’m currently working on [NCCU-GDSC Select Course](https://selectcourse.projext.app), [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry).  
+- 🔭 I’m currently working on 
+  - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://beta-scsr.opennccu.com/).
+    - A React Typescript project with Daisy UI
+  - [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry).
+    - A Qiskit tool 
+  - [OpenNCCUApp (Not yet to publish)](https://github.com/OpenNCCU/OpenNCCU-app).
+    - A Vue Typescript project with Tailwind CSS
   
 
 - 🌱 I’m currently learning **Vue, Typescript, Qiskit, Rust**  
@@ -66,11 +72,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=harui2019&show_icons=true&count_private=true&hide_border=true" align="right" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=300&theme=tokyonight&locale=en&hide_border=true&custom_title=Milestone&username=harui2019" height="300" alt="stats graph" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&card_width=300&hide_border=true&layout=compact&hide=Jupyter+Notebook&card_theme=tokyonight" align="center" /></div>
 
 </td></tr></table>  
 
