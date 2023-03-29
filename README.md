@@ -70,13 +70,12 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="center">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=300&theme=tokyonight&locale=en&hide_border=true&custom_title=Milestone&username=harui2019" height="300" alt="stats graph" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=400&theme=tokyonight&locale=en&hide_border=true&custom_title=Milestone&username=harui2019" height="300" alt="stats graph" align="center" /></div>
 
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact&hide=Jupyter+Notebook&card_theme=tokyonight" align="center" /></div>
+</td><td valign="center">
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact&hide=Jupyter+Notebook&theme=tokyonight&card_width=300" align="center" height="300" /></div>
 
 </td></tr></table>  
 
