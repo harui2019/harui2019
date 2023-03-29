@@ -86,7 +86,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=harui2019&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=harui2019&&style=for-the-badge&color=orange" align="center" />
 </div>  
   
 <br />
