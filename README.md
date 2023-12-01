@@ -1,24 +1,22 @@
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
+
   - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://beta-scsr.opennccu.com/).
     - A React Typescript project with Daisy UI powered by Tailwind CSS
   - [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry).
-    - A Qiskit tool 
+    - A Qiskit tool
   - [OpenNCCUApp (Not yet to publish)](https://github.com/OpenNCCU/OpenNCCU-app).
     - A Vue Typescript project with Tailwind CSS
-  
 
-- 🌱 I’m currently learning **Vue, Typescript, Qiskit, Rust**  
-  
+- 🌱 I’m currently learning **Vue, Typescript, Qiskit, Rust**
 
-<br/>  
+<br/>
 
+## My Skill Set
 
-## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -31,15 +29,13 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.windicss.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/windicss.svg" alt="Windi CSS" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 </div>
 
 </td><td valign="top" width="50%">
 
+### Language and Tool
 
-
-### Language and Tool  
 <div align="center">  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
@@ -48,12 +44,12 @@
 <a href="https://qiskit.org/" target="_blank"><img style="margin: 10px; background-color: white; padding: 5px; border-radius: 10px;" src="https://qiskit.org/_ipx/_/images/landing-page/logo_wordmark.svg" alt="Qiskit" height="75" /></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/harui2019" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -64,13 +60,12 @@
 <a href="https://instagram.com/harui_2019" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
 <table ><tr><td valign="center" width="60%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&card_width=550&border_radius=6&theme=tokyonight&locale=en&hide_border=true&custom_title=Milestone&username=harui2019" width="100%" alt="stats graph" align="center" /></div>
@@ -78,31 +73,14 @@
 </td><td valign="center" width="40%">
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact&hide=Jupyter+Notebook&theme=tokyonight&card_width=320&border_radius=6" width="100%" align="center" /></div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
-  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31npyqqp3rh4gniv3m4brlqbxdt4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+<table width="40%"><tr>
+<td valign="center" >
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact&theme=tokyonight&card_width=320&border_radius=6" width="100%" align="center" /></div>
 
-<br/>  
+</td></tr></table>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=harui2019&&style=for-the-badge&color=orange" align="center" />
-</div>  
-  
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-# In construction
-
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-
-## (Spolier!!!)
-
-It will introduce more works on React/Python about Webfrontend and Quanmtum Computing or something.
-
-## TaLaLaLaLa
-
-![TaLaLaLaLa](https://spotify-recently-played-readme.vercel.app/api?user=31npyqqp3rh4gniv3m4brlqbxdt4&count=2)
+</div>
