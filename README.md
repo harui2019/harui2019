@@ -1,10 +1,10 @@
 - 🔭 I’m currently working on
 
-  - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://beta-scsr.opennccu.com/).
+  - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://course.opennccu.com/).
     - A React Typescript project with Daisy UI powered by Tailwind CSS
   - [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry).
     - A Qiskit tool
-  - [OpenNCCUApp (Not yet to publish)](https://github.com/OpenNCCU/OpenNCCU-app).
+  - [OpenNCCUApp (Not yet to publish)](https://opennccu.com).
     - A Vue Typescript project with Tailwind CSS
 
 - 🌱 I’m currently learning **Vue, Typescript, Qiskit, Rust**
