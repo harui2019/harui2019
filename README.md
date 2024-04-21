@@ -81,6 +81,8 @@
 
 </td></tr></table>
 
+<a href="https://gitroll.io/profile/u5vCSsZUOnYZ3BNqdyIzV4j1z1ey2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5vCSsZUOnYZ3BNqdyIzV4j1z1ey2" alt="GitRoll Profile Badge"/></a>
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=harui2019&&style=for-the-badge&color=orange" align="center" />
 </div>
