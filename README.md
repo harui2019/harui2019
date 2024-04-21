@@ -75,13 +75,18 @@
 
 </td></tr></table>
 
-<table width="40%"><tr>
-<td valign="center" >
+<table><tr>
+<td valign="center" width="40%">
 <div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harui2019&hide_border=true&layout=compact&theme=tokyonight&card_width=320&border_radius=6" width="100%" align="center" /></div>
 
-</td></tr></table>
+</td>
+<td valign="center" width="60%">
 
 <a href="https://gitroll.io/profile/u5vCSsZUOnYZ3BNqdyIzV4j1z1ey2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u5vCSsZUOnYZ3BNqdyIzV4j1z1ey2" alt="GitRoll Profile Badge"/></a>
+
+</td>
+</tr></table>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=harui2019&&style=for-the-badge&color=orange" align="center" />
