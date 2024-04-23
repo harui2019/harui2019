@@ -2,7 +2,7 @@
 
   - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://course.opennccu.com/).
     - A React Typescript project with Daisy UI powered by Tailwind CSS
-  - [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry).
+  - [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry) / [But Preview here](https://github.com/harui2019/qurry_preview).
     - A Qiskit toolkit
   - [OpenNCCUApp](https://opennccu.com).
     - A Vue Typescript project with Tailwind CSS
