@@ -1,9 +1,11 @@
 - 🔭 I’m currently working on
 
+  - [Qurry](https://github.com/harui2019/qurrium).
+    - The Quantum Experiment Manager for Qiskit.
   - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://course.opennccu.com/).
-    - A React Typescript project with Daisy UI powered by Tailwind CSS
-  - [Qurry (Sorry, it's not public yet.)](https://github.com/harui2019/qurry) / [But Preview here](https://github.com/harui2019/qurry_preview).
-    - A Qiskit toolkit
+    - A React Typescript project with Daisy UI, Tailwind CSS, Vite
+  - [OpenNCCU CopyChecker](https://help.opennccu.com/).
+    - A React Typescript project with Daisy UI, Tailwind CSS, Next.js
   - [OpenNCCUApp](https://opennccu.com).
     - A Vue Typescript project with Tailwind CSS
 
