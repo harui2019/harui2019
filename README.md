@@ -1,7 +1,8 @@
 - 🔭 I’m currently working on
 
-  - [Qurry](https://github.com/harui2019/qurrium).
+  - [Qurry🍛/Qurrium](https://github.com/harui2019/qurrium).
     - The Quantum Experiment Manager for Qiskit.
+    - [Documentation](https://docs.qurrium.org)
   - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://course.opennccu.com/).
     - A React Typescript project with Daisy UI, Tailwind CSS, Vite
   - [OpenNCCU CopyChecker](https://help.opennccu.com/).
@@ -54,14 +55,20 @@
 
 <div align="center">
 <a href="https://github.com/harui2019" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/harui2019" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/harui_2019" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+<a href="https://threads.net/harui_2019" target="_blank">
+<img src="https://img.shields.io/badge/Threads-000000?&style=for-the-badge&logo=Threads&logoColor=white" alt="threads" style="margin-bottom: 5px;" />
+</a>
+<a href="https://bsky.app/profile/harui2019.qurrium.org" target="_blank">
+<img src="https://img.shields.io/badge/-Bluesky-3686f7?&style=for-the-badge&logo=bluesky&logoColor=white" alt="bluesky" style="margin-bottom: 5px;" />
+</a>
 </div>
 
 <br/>
