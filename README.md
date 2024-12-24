@@ -1,3 +1,9 @@
+# I'm in my 16-weeks mandatory military service.
+
+It's week 02.
+
+---
+
 - 🔭 I’m currently working on
 
   - [Qurry🍛/Qurrium](https://github.com/harui2019/qurrium).
