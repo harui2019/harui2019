@@ -1,8 +1,8 @@
 # I'm in my 16-weeks mandatory military service.
 
-It's week 02.
-
----
+<div align="center">  
+<h2>It's week 02.</h2>
+</div>
 
 - 🔭 I’m currently working on
 
