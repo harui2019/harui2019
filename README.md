@@ -3,7 +3,7 @@
 So, there will be no updates in all projects for a while.
 
 <p align="center">
-  <h2 align="center">It's week 05.</h2>
+  <h2 align="center">It's week 08. Almost halfway through.</h2>
 </p>
 
 - 🔭 I’m currently working on
