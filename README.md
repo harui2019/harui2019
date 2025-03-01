@@ -22,7 +22,7 @@
 
 # I'm in my 16-weeks mandatory military service
 
-So, there will be no updates in all projects for a while(? :)
+So, there will be no updates in all projects for a while(?   : )
 
 Or I code in my day-off.
 
