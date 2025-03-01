@@ -1,9 +1,34 @@
+<div 
+  align="center"
+  width="100%"
+  style="display: flex; flex-direction: column; gap: 1px;"
+>
+  <p style="font-size: 1.5rem;" ><strong>Don't look back, look forward</strong></p>
+  <p style="font-size: 1.5rem;" ><strong>Find something you can move toward</strong></p>
+  <p style="font-size: 1.5rem;" ><strong>Don't look back, look forward</strong></p>
+  <p style="font-size: 1.5rem;" ><strong>Don't look back</strong></p>
+  <a 
+    href="https://www.youtube.com/watch?v=X_4pIzwShRw"
+    target="_blank"
+    width="100%"
+  >
+    <img 
+      src="https://img.youtube.com/vi/X_4pIzwShRw/0.jpg"
+      alt="【MV】Seeing Stars feat. Lotus Juice - Mori Calliope"
+      width="100%"
+      style="border-radius: 1.5rem;"
+    />
+  </a>
+</div>
+
 # I'm in my 16-weeks mandatory military service
 
-So, there will be no updates in all projects for a while.
+So, there will be no updates in all projects for a while(? :)
+
+Or I code in my day-off.
 
 <p align="center">
-  <h2 align="center">It's week 11.</h2>
+  <h2 align="center">It's week 12.</h2>
 </p>
 
 - 🔭 I’m currently working on
