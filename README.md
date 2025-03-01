@@ -3,10 +3,10 @@
   width="100%"
   style="display: flex; flex-direction: column; gap: 1px;"
 >
-  <div style="font-size: 2rem;" ><strong>Don't look back, look forward</strong></div>
-  <div style="font-size: 2rem;" ><strong>Find something you can move toward</strong></div>
-  <div style="font-size: 2rem;" ><strong>Don't look back, look forward</strong></div>
-  <div style="font-size: 2rem;" ><strong>Don't look back</strong></div>
+  <div style="font-size: 12px;" ><strong>Don't look back, look forward</strong></div>
+  <div style="font-size: 12px;" ><strong>Find something you can move toward</strong></div>
+  <div style="font-size: 12px;" ><strong>Don't look back, look forward</strong></div>
+  <div style="font-size: 12px;" ><strong>Don't look back</strong></div>
   <a 
     href="https://www.youtube.com/watch?v=X_4pIzwShRw"
     target="_blank"
@@ -15,8 +15,7 @@
     <img 
       src="https://img.youtube.com/vi/X_4pIzwShRw/0.jpg"
       alt="【MV】Seeing Stars feat. Lotus Juice - Mori Calliope"
-      width="100%"
-      style="border-radius: 1.5rem;"
+      style="border-radius: 16px; width: 100%;"
     />
   </a>
 </div>
