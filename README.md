@@ -3,10 +3,10 @@
   width="100%"
   style="display: flex; flex-direction: column; gap: 1px;"
 >
-  <div style="font-size: 12px;" ><strong>Don't look back, look forward</strong></div>
-  <div style="font-size: 12px;" ><strong>Find something you can move toward</strong></div>
-  <div style="font-size: 12px;" ><strong>Don't look back, look forward</strong></div>
-  <div style="font-size: 12px;" ><strong>Don't look back</strong></div>
+  <p style="font-size: 16px;" ><strong>Don't look back, look forward</strong></p>
+  <p style="font-size: 16px;" ><strong>Find something you can move toward</strong></p>
+  <p style="font-size: 16px;" ><strong>Don't look back, look forward</strong></p>
+  <p style="font-size: 16px;" ><strong>Don't look back</strong></p>
   <a 
     href="https://www.youtube.com/watch?v=X_4pIzwShRw"
     target="_blank"
