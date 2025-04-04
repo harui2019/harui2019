@@ -20,14 +20,9 @@
   </a>
 </div>
 
-# I'm in my 16-weeks mandatory military service
-
-So, there will be no updates in all projects for a while(?   : )
-
-Or I code in my day-off.
-
+# I have finished my 16-weeks mandatory military service
 <p align="center">
-  <h2 align="center">It's week 15.</h2>
+  <h2 align="center">I'm back.</h2>
 </p>
 
 - 🔭 I’m currently working on
