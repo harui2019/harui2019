@@ -20,11 +20,6 @@
   </a>
 </div>
 
-# I have finished my 16-weeks mandatory military service
-<p align="center">
-  <h2 align="center">I'm back.</h2>
-</p>
-
 - 🔭 I’m currently working on
 
   - [Qurry🍛/Qurrium](https://github.com/qurrium/qurrium).
@@ -33,7 +28,7 @@
     - Makes the randomized measurement easy.
     - [Documentation](https://docs.qurrium.org)
       - The documentation is still in progress.
-      - [Source](https://github.com/qurrium/qurrium_doc)
+      - [Source](https://github.com/qurrium/qurrium_documentaion)
   - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://course.opennccu.com/).
     - A React Typescript project with Daisy UI, Tailwind CSS, Vite
   - [OpenNCCU CopyChecker/OpenNCCU SCSR Helper](https://help.opennccu.com/).
