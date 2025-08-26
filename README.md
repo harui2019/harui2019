@@ -29,12 +29,6 @@
     - [Documentation](https://docs.qurrium.org)
       - The documentation is still in progress.
       - [Source](https://github.com/qurrium/qurrium_documentaion)
-  - [NCCU-GDSC/OpenNCCU Select Course System Redesign](https://course.opennccu.com/).
-    - A React Typescript project with Daisy UI, Tailwind CSS, Vite
-  - [OpenNCCU CopyChecker/OpenNCCU SCSR Helper](https://help.opennccu.com/).
-    - A React Typescript project with Daisy UI, Tailwind CSS, Next.js
-  - [OpenNCCUApp](https://opennccu.com).
-    - A Vue Typescript project with Tailwind CSS
 
 - 🌱 I’m currently learning **Vue, Typescript, Qiskit, Rust**
 
